@@ -1,0 +1,23 @@
+{
+    "PRIVATE_KEY": "",
+
+    "SECRET": "",
+
+    "CONTRACT_CHAIN_NETWORK": "",
+
+    "APP_BASE_URL": "",
+
+    "NFT_MARKET_PLACE_ADDRESS": "",
+    "NFT_ADDRESS": "",
+    
+    "MONGODB_URI": "",
+    "MONGODB_NAME": "",
+    
+    "INFURA_PROJECT_ID": "",
+    "INFURA_PROJECT_SECRET": "",
+    "INFURA_KEY": "",
+    "INFURA_API_ENDPOINT": "",
+    "INFURA_IPFS_BASE_URL": "",
+    "INFURA_RPC_ENDPOINT": ""
+    
+}
